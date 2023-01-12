@@ -11,3 +11,4 @@ b0 = 10, b1 = 4.7
 b0=10, b1=2.6, b2 = 7.8
 
 
+# Data to model T-student 
