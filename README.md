@@ -12,3 +12,8 @@ b0=10, b1=2.6, b2 = 7.8
 
 
 # Data to model T-student 
+
+
+# Sources:
+
+S1DATA was extracted from https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181001
