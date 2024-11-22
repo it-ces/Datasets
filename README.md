@@ -20,4 +20,4 @@ b0=10, b1=2.6, b2 = 7.8
 * Jasa was extracted from survival R package: data(heart, package='survival') 1977 Covariance analysis of heart transplant survival data. Journal of the
 American Statistical Association
 * Telco extracted from IBM
-* Graduados extractred from Observatorio laboral para la educación superior
+* Graduados extractred from Observatorio laboral para la educación superior (hint: skip 10 rows)
