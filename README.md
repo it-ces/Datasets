@@ -21,4 +21,4 @@ b0=10, b1=2.6, b2 = 7.8
 American Statistical Association
 * Telco extracted from IBM
 * Graduados extractred from Observatorio laboral para la educación superior (hint: skip 10 rows)
-* EAC (Encuesta Anual de Comercio) Extracted from DANE for 2022.
+* EAC (Encuesta Anual de Comercio) Extracted from DANE for 2022 (hint: sep ;)
