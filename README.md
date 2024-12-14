@@ -24,3 +24,4 @@ American Statistical Association
 * EAC (Encuesta Anual de Comercio) Extracted from DANE for 2022 (hint: sep ;)
 * micro2023_* for different modules extracted from DANE for 2023
 * churndata.csv extracted from Time series and survival analysis coursera
+* Sunspots.csv extracted from https://www.kaggle.com/datasets/robervalt/sunspots
