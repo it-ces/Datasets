@@ -25,3 +25,4 @@ American Statistical Association
 * micro2023_* for different modules extracted from DANE for 2023
 * churndata.csv extracted from Time series and survival analysis coursera
 * Sunspots.csv extracted from https://www.kaggle.com/datasets/robervalt/sunspots
+* https://www.nber.org/research/data/nber-ces-manufacturing-industry-database
