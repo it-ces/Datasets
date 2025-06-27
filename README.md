@@ -27,3 +27,4 @@ American Statistical Association
 * Sunspots.csv extracted from https://www.kaggle.com/datasets/robervalt/sunspots
 * https://www.nber.org/research/data/nber-ces-manufacturing-industry-database
 * cigdemand Watson econometrics resources
+* https://insideairbnb.com/
