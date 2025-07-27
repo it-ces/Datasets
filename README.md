@@ -28,3 +28,4 @@ American Statistical Association
 * https://www.nber.org/research/data/nber-ces-manufacturing-industry-database
 * cigdemand Watson econometrics resources
 * https://insideairbnb.com/
+* web-attack-dataset extracted from https://www.unb.ca/cic/datasets/ids-2017.html
