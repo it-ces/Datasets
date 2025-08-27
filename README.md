@@ -30,3 +30,4 @@ American Statistical Association
 * https://insideairbnb.com/
 * web-attack-dataset extracted from https://www.unb.ca/cic/datasets/ids-2017.html
 * Insurance extracted from MASS R - package.
+* CapitalBikeShare UCIML repo
