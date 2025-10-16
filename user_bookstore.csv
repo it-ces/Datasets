@@ -1,0 +1,782 @@
+id-client,age,country
+101,30,Montserrat
+102,39,Mayotte
+103,37,U.S. Virgin Islands
+104,42,Svalbard and Jan Mayen
+105,26,Syria
+106,33,Czech Republic
+107,28,Bouvet Island
+108,37,Tanzania
+109,36,Malta
+110,42,Singapore
+111,41,Sri Lanka
+112,40,Palau
+113,40,Palau
+114,33,Macau
+115,41,Iraq
+116,40,Lesotho
+117,32,Christmas Island
+118,39,New Zealand
+119,42,Nicaragua
+120,24,Guinea
+121,41,Hungary
+122,43,Uruguay
+123,42,Puerto Rico
+124,40,Libya
+125,37,South Africa
+126,29,Sierra Leone
+127,31,Kenya
+128,35,Armenia
+129,37,Ethiopia
+130,37,Georgia
+131,43,Hong Kong
+132,36,French Southern Territories
+133,39,Belgium
+134,42,Turks and Caicos Islands
+135,31,Central African Republic
+136,42,Slovakia
+137,44,Tokelau
+138,28,Saint Helena
+139,36,Philippines
+140,42,Central African Republic
+141,43,Western Sahara
+142,31,French Polynesia
+143,38,Botswana
+144,43,Sweden
+145,41,Jordan
+146,41,Italy
+147,31,Lithuania
+148,28,Georgia
+149,43,Trinidad and Tobago
+150,33,Niue
+151,34,Maldives
+152,45,Hungary
+153,38,Belize
+154,41,Norway
+155,40,Dominican Republic
+156,33,Saint Helena
+157,37,Anguilla
+158,26,Comoros
+159,41,Norway
+160,40,Gabon
+161,39,Barbados
+162,43,Niger
+163,39,Djibouti
+164,44,Guadeloupe
+165,36,Bulgaria
+166,24,Slovenia
+167,30,Bolivia
+168,42,Thailand
+169,43,Cameroon
+170,38,Guadeloupe
+171,37,New Zealand
+172,34,Mozambique
+173,44,Gaza Strip
+174,45,Seychelles
+175,34,Pitcairn Islands
+176,45,Grenada
+177,38,Hungary
+178,38,São Tomé and Príncipe
+179,43,Finland
+180,40,Angola
+181,37,Lebanon
+182,39,Georgia
+183,44,Grenada
+184,43,Georgia
+185,35,Somalia
+186,44,Faroe Islands
+187,41,Lebanon
+188,43,Rwanda
+189,41,Rwanda
+190,34,Niue
+191,41,Congo [DRC]
+192,36,Heard Island and McDonald Islands
+193,37,Saint Helena
+194,39,Romania
+195,36,Ethiopia
+196,37,American Samoa
+197,37,Cameroon
+198,38,Norfolk Island
+199,43,São Tomé and Príncipe
+200,38,Kiribati
+201,40,Gambia
+202,32,Moldova
+203,41,Isle of Man
+204,42,Netherlands Antilles
+205,29,Serbia
+206,41,San Marino
+207,33,Macau
+208,38,Bulgaria
+209,33,Myanmar [Burma]
+210,30,Costa Rica
+211,38,Maldives
+212,37,Micronesia
+213,37,Libya
+214,41,Nauru
+215,41,Swaziland
+216,42,Benin
+217,42,Djibouti
+218,43,Mauritania
+219,39,Rwanda
+220,43,Kosovo
+221,43,Antarctica
+222,41,Burundi
+223,40,Taiwan
+224,46,Liberia
+225,43,Norfolk Island
+226,38,Burundi
+227,37,Western Sahara
+228,42,Norway
+229,42,Saint Vincent and the Grenadines
+230,32,Montserrat
+231,36,Fiji
+232,41,China
+233,36,Czech Republic
+234,34,Paraguay
+235,30,Namibia
+236,39,Burundi
+237,30,Malta
+238,34,Argentina
+239,33,Saint Vincent and the Grenadines
+240,24,Mayotte
+241,27,Libya
+242,39,Tuvalu
+243,34,Mexico
+244,41,Serbia
+245,37,French Guiana
+246,42,Luxembourg
+247,37,Sudan
+248,34,Jersey
+249,36,Dominica
+250,27,French Southern Territories
+251,39,Taiwan
+252,34,Serbia
+253,46,Ireland
+254,43,Madagascar
+255,28,Austria
+256,25,Slovenia
+257,39,Panama
+258,42,Chile
+259,41,France
+260,39,Taiwan
+261,42,Slovakia
+262,38,Libya
+263,43,Benin
+264,45,France
+265,41,Mongolia
+266,38,Tunisia
+267,39,Burundi
+268,31,Tanzania
+269,32,Rwanda
+270,33,Gabon
+271,45,Colombia
+272,43,Thailand
+273,42,Liechtenstein
+274,42,Ukraine
+275,44,Philippines
+276,40,Iraq
+277,42,Grenada
+278,40,Romania
+279,27,San Marino
+280,43,Azerbaijan
+281,29,Turkey
+282,41,Kenya
+283,35,Cape Verde
+284,38,Tuvalu
+285,35,Bermuda
+286,44,Svalbard and Jan Mayen
+287,33,Micronesia
+288,34,Slovakia
+289,40,Botswana
+290,39,Egypt
+291,34,San Marino
+292,38,Costa Rica
+293,40,Fiji
+294,31,Cook Islands
+295,37,Rwanda
+296,35,Puerto Rico
+297,32,Qatar
+298,38,Japan
+299,30,Jordan
+300,45,Laos
+301,26,India
+302,42,Seychelles
+303,42,United Arab Emirates
+304,37,Latvia
+305,41,Panama
+306,40,Denmark
+307,38,Liberia
+308,40,Angola
+309,39,South Georgia and the South Sandwich Islands
+310,37,Isle of Man
+311,44,Serbia
+312,43,French Southern Territories
+313,39,Cameroon
+314,33,Panama
+315,33,Angola
+316,31,Suriname
+317,41,Austria
+318,45,Monaco
+319,40,Côte d'Ivoire
+320,44,Panama
+321,39,Palestinian Territories
+322,42,Cook Islands
+323,35,Malawi
+324,39,Nepal
+325,32,Singapore
+326,30,Laos
+327,44,Eritrea
+328,44,Austria
+329,28,Iceland
+330,44,Bulgaria
+331,42,Timor-Leste
+332,40,Guam
+333,28,Albania
+334,44,Iran
+335,28,Suriname
+336,38,Niger
+337,41,Burkina Faso
+338,40,New Zealand
+339,33,Greenland
+340,41,Tokelau
+341,43,Aruba
+342,36,Fiji
+343,38,Turks and Caicos Islands
+344,33,Lesotho
+345,42,Austria
+346,30,Cuba
+347,43,Guam
+348,36,American Samoa
+349,38,Malawi
+350,31,Turkey
+351,39,Seychelles
+352,40,Saint Kitts and Nevis
+353,46,Mozambique
+354,45,Wallis and Futuna
+355,33,Israel
+356,33,Luxembourg
+357,41,Seychelles
+358,45,Congo [Republic]
+359,35,Burundi
+360,46,Christmas Island
+361,40,Saint Pierre and Miquelon
+362,36,Thailand
+363,38,Guinea
+364,41,El Salvador
+365,41,Tonga
+366,42,Netherlands Antilles
+367,41,Vatican City
+368,41,Antarctica
+369,36,India
+370,41,New Zealand
+371,45,Bolivia
+372,33,Faroe Islands
+373,35,Vanuatu
+374,41,Monaco
+375,40,Paraguay
+376,36,United States
+377,40,Taiwan
+378,44,Swaziland
+379,36,Argentina
+380,43,Spain
+381,36,Georgia
+382,36,Norfolk Island
+383,41,Argentina
+384,30,Andorra
+385,30,Heard Island and McDonald Islands
+386,36,Central African Republic
+387,44,Portugal
+388,37,Tanzania
+389,38,Saudi Arabia
+390,37,Bahrain
+391,41,Palestinian Territories
+392,42,Guam
+393,41,Niue
+394,27,Samoa
+395,29,Yemen
+396,41,United Arab Emirates
+397,38,Pitcairn Islands
+398,39,Lithuania
+399,43,New Zealand
+400,35,Suriname
+401,37,Wallis and Futuna
+402,33,Vietnam
+403,38,Lithuania
+404,29,Fiji
+405,33,Lesotho
+406,44,Ethiopia
+407,43,Trinidad and Tobago
+408,37,Guam
+409,42,Monaco
+410,43,Marshall Islands
+411,44,Cape Verde
+412,44,Saint Vincent and the Grenadines
+413,32,Serbia
+414,33,Réunion
+415,36,Tokelau
+416,43,South Africa
+417,44,Colombia
+418,42,Dominican Republic
+419,44,Antarctica
+420,32,Iceland
+421,40,Ecuador
+422,44,Macedonia [FYROM]
+423,31,Cocos [Keeling] Islands
+424,42,Algeria
+425,33,Iraq
+426,36,Nigeria
+427,39,Pakistan
+428,39,Jordan
+429,35,Haiti
+430,39,U.S. Minor Outlying Islands
+431,39,Spain
+432,27,Mauritius
+433,37,Peru
+434,43,Spain
+435,33,Burundi
+436,38,Anguilla
+437,38,Netherlands
+438,41,Norfolk Island
+439,45,Bulgaria
+440,40,Indonesia
+441,45,Malaysia
+442,43,American Samoa
+443,38,South Africa
+444,42,Belize
+445,42,Mozambique
+446,38,Libya
+447,35,Liechtenstein
+448,35,Dominica
+449,32,Niue
+450,37,Netherlands
+451,37,Bahamas
+452,32,Hong Kong
+453,36,Albania
+454,38,Somalia
+455,44,Côte d'Ivoire
+456,35,Iran
+457,41,Greece
+458,45,Faroe Islands
+459,38,Congo [DRC]
+460,39,Puerto Rico
+461,43,Lesotho
+462,40,Serbia
+463,34,San Marino
+464,37,Ecuador
+465,40,Kyrgyzstan
+466,40,Anguilla
+467,41,British Virgin Islands
+468,37,Taiwan
+469,32,Mauritius
+470,41,Mali
+471,39,Heard Island and McDonald Islands
+472,34,Turkey
+473,39,Guadeloupe
+474,41,Sri Lanka
+475,42,Sri Lanka
+476,34,Qatar
+477,45,Saint Kitts and Nevis
+478,29,Tanzania
+479,44,Bangladesh
+480,44,Timor-Leste
+481,39,Anguilla
+482,40,Tunisia
+483,40,Mauritius
+484,30,Hungary
+485,31,Saint Vincent and the Grenadines
+486,37,Vanuatu
+487,44,Greece
+488,39,Singapore
+489,43,Italy
+490,38,Cameroon
+491,39,Mongolia
+492,36,Israel
+493,42,Saint Kitts and Nevis
+494,38,Iraq
+495,45,Greenland
+496,39,Macedonia [FYROM]
+497,43,Thailand
+498,41,Papua New Guinea
+499,39,Uzbekistan
+500,34,Ireland
+501,40,British Virgin Islands
+502,39,Turkmenistan
+503,36,Sweden
+504,44,Kazakhstan
+505,35,Latvia
+506,29,Peru
+507,37,Belgium
+508,33,Guam
+509,40,Taiwan
+510,41,Kyrgyzstan
+511,42,Canada
+512,39,Australia
+513,41,Madagascar
+514,45,Kuwait
+515,32,Samoa
+516,41,Canada
+517,35,U.S. Minor Outlying Islands
+518,35,Luxembourg
+519,32,Palestinian Territories
+520,30,Micronesia
+521,31,Tokelau
+522,40,United Arab Emirates
+523,33,Sri Lanka
+524,34,Netherlands Antilles
+525,41,Slovenia
+526,41,Montserrat
+527,32,Uzbekistan
+528,41,Nauru
+529,38,Monaco
+530,37,Kenya
+531,43,Sierra Leone
+532,37,Gabon
+533,27,Fiji
+534,35,Botswana
+535,41,Togo
+536,36,Cuba
+537,33,Tunisia
+538,43,Colombia
+539,44,Puerto Rico
+540,27,Myanmar [Burma]
+541,30,Falkland Islands [Islas Malvinas]
+542,44,Japan
+543,31,Bahrain
+544,38,Tuvalu
+545,30,Argentina
+546,38,Sweden
+547,32,Norway
+548,42,Gabon
+549,37,Albania
+550,31,Mexico
+551,39,Micronesia
+552,36,Somalia
+553,33,Ghana
+554,43,Macau
+555,45,Finland
+556,40,Luxembourg
+557,37,Italy
+558,39,New Caledonia
+559,36,Congo [DRC]
+560,39,Macau
+561,44,Iceland
+562,28,Kuwait
+563,33,Hungary
+564,45,Kuwait
+565,30,American Samoa
+566,40,Azerbaijan
+567,36,Macedonia [FYROM]
+568,43,United States
+569,39,Panama
+570,36,U.S. Virgin Islands
+571,45,Chile
+572,45,Finland
+573,40,São Tomé and Príncipe
+574,44,U.S. Minor Outlying Islands
+575,38,Malaysia
+576,30,Uruguay
+577,45,United States
+578,35,Micronesia
+579,33,Bahamas
+580,40,Dominican Republic
+581,42,Sri Lanka
+582,41,Somalia
+583,33,Turks and Caicos Islands
+584,33,Macau
+585,43,Jamaica
+586,42,Aruba
+587,44,Afghanistan
+588,42,Sierra Leone
+589,36,Spain
+590,36,Christmas Island
+591,26,Monaco
+592,40,Tuvalu
+593,38,Albania
+594,42,Malawi
+595,38,Antarctica
+596,39,Vietnam
+597,42,Saint Lucia
+598,39,South Africa
+599,42,Chad
+600,33,Ecuador
+601,40,Macedonia [FYROM]
+602,43,Northern Mariana Islands
+603,31,Qatar
+604,46,India
+605,44,Madagascar
+606,37,Nauru
+607,43,Grenada
+608,40,Sweden
+609,35,Tajikistan
+610,35,Madagascar
+611,45,Russia
+612,34,Faroe Islands
+613,35,Jamaica
+614,40,Maldives
+615,35,Australia
+616,44,Israel
+617,36,Chile
+618,31,Liberia
+619,42,Samoa
+620,35,Guyana
+621,23,Ukraine
+622,39,Venezuela
+623,36,Mayotte
+624,36,Paraguay
+625,32,Indonesia
+626,40,Maldives
+627,45,Belarus
+628,38,Isle of Man
+629,37,American Samoa
+630,42,Djibouti
+631,38,Gibraltar
+632,40,Myanmar [Burma]
+633,32,Gambia
+634,33,Spain
+635,33,Mayotte
+636,39,Benin
+637,42,Gabon
+638,38,Saudi Arabia
+639,45,Algeria
+640,42,Mexico
+641,33,Tonga
+642,40,Micronesia
+643,40,Canada
+644,30,Norway
+645,41,Malaysia
+646,39,Djibouti
+647,43,Netherlands
+648,41,Christmas Island
+649,45,Isle of Man
+650,43,Bahamas
+651,41,Cayman Islands
+652,44,Paraguay
+653,37,Monaco
+654,39,U.S. Virgin Islands
+655,37,Colombia
+656,38,Cuba
+657,42,Guam
+658,42,Macedonia [FYROM]
+659,45,Canada
+660,43,Congo [DRC]
+661,45,Guyana
+662,32,Portugal
+663,41,Myanmar [Burma]
+664,30,Aruba
+665,40,New Zealand
+666,36,French Southern Territories
+667,41,São Tomé and Príncipe
+668,39,Christmas Island
+669,39,South Africa
+670,39,Cocos [Keeling] Islands
+671,36,Northern Mariana Islands
+672,44,Albania
+673,36,Faroe Islands
+674,41,Sierra Leone
+675,35,United Arab Emirates
+676,39,Ghana
+677,34,Tonga
+678,37,British Indian Ocean Territory
+679,35,Hong Kong
+680,33,Falkland Islands [Islas Malvinas]
+681,33,Qatar
+682,42,Ecuador
+683,43,Iran
+684,42,Gibraltar
+685,44,Czech Republic
+686,35,Réunion
+687,45,Bangladesh
+688,35,Papua New Guinea
+689,31,Fiji
+690,34,Grenada
+691,36,Venezuela
+692,32,U.S. Virgin Islands
+693,38,Ireland
+694,36,Eritrea
+695,38,Sudan
+696,40,Montserrat
+697,40,Liberia
+698,44,Burkina Faso
+699,39,Azerbaijan
+700,35,Albania
+701,41,Malta
+702,37,Denmark
+703,37,North Korea
+704,42,Saint Vincent and the Grenadines
+705,43,Mali
+706,35,Jersey
+707,42,Myanmar [Burma]
+708,38,Comoros
+709,44,Costa Rica
+710,36,Fiji
+711,36,Zimbabwe
+712,29,Yemen
+713,45,Finland
+714,44,Singapore
+715,40,Timor-Leste
+716,34,Canada
+717,30,Greenland
+718,37,Libya
+719,27,Cape Verde
+720,36,United Arab Emirates
+721,28,Marshall Islands
+722,43,Kazakhstan
+723,36,Tokelau
+724,32,Vanuatu
+725,44,Antarctica
+726,46,Syria
+727,40,Monaco
+728,34,Falkland Islands [Islas Malvinas]
+729,38,Gibraltar
+730,37,Turkey
+731,41,Gaza Strip
+732,39,Myanmar [Burma]
+733,34,Bahrain
+734,42,Micronesia
+735,41,Comoros
+736,33,French Polynesia
+737,34,Estonia
+738,32,Bahamas
+739,41,Germany
+740,40,Guadeloupe
+741,37,Kenya
+742,30,Vatican City
+743,43,Myanmar [Burma]
+744,30,Luxembourg
+745,41,Maldives
+746,35,Zimbabwe
+747,41,Chad
+748,40,South Africa
+749,39,Cook Islands
+750,37,Uruguay
+751,39,United Kingdom
+752,37,Panama
+753,45,Madagascar
+754,41,South Korea
+755,43,Rwanda
+756,26,Madagascar
+757,36,Bahrain
+758,35,Micronesia
+759,37,Guyana
+760,36,Réunion
+761,44,Ukraine
+762,43,Gaza Strip
+763,34,Luxembourg
+764,44,Liechtenstein
+765,38,American Samoa
+766,44,Poland
+767,42,Macedonia [FYROM]
+768,42,Uruguay
+769,34,Congo [Republic]
+770,41,Kosovo
+771,34,Libya
+772,44,Bermuda
+773,43,Niger
+774,37,Peru
+775,38,Kenya
+776,40,Norfolk Island
+777,34,Isle of Man
+778,44,Antarctica
+779,42,Malaysia
+780,32,Haiti
+781,38,Bolivia
+782,33,French Southern Territories
+783,45,Bulgaria
+784,40,Cayman Islands
+785,35,Iraq
+786,44,Germany
+787,30,Romania
+788,44,Slovenia
+789,34,Gabon
+790,37,United Kingdom
+791,43,Palestinian Territories
+792,36,Liechtenstein
+793,33,United States
+794,42,Andorra
+795,36,North Korea
+796,41,Ukraine
+797,34,Bosnia and Herzegovina
+798,44,Botswana
+799,42,Palestinian Territories
+800,43,Rwanda
+801,36,Barbados
+802,31,Singapore
+803,44,Dominican Republic
+804,43,Antarctica
+805,37,Northern Mariana Islands
+806,38,French Polynesia
+807,31,Latvia
+808,37,Isle of Man
+809,41,American Samoa
+810,41,Sweden
+811,33,Seychelles
+812,37,Gambia
+813,37,Macedonia [FYROM]
+814,35,Vanuatu
+815,41,São Tomé and Príncipe
+816,39,Tunisia
+817,27,Grenada
+818,34,Svalbard and Jan Mayen
+819,43,Réunion
+820,37,Burundi
+821,30,Poland
+822,43,Kazakhstan
+823,45,Singapore
+824,26,Greece
+825,36,Mauritius
+826,44,Mauritania
+827,38,Croatia
+828,38,Macedonia [FYROM]
+829,26,South Georgia and the South Sandwich Islands
+830,31,Faroe Islands
+831,41,Madagascar
+832,43,Switzerland
+833,44,Bahrain
+834,39,Lesotho
+835,38,Norway
+836,45,Israel
+837,33,Maldives
+838,25,French Polynesia
+839,35,Belize
+840,40,Gaza Strip
+841,41,Peru
+842,40,Seychelles
+843,29,Eritrea
+844,36,Azerbaijan
+845,35,Saint Vincent and the Grenadines
+846,36,Christmas Island
+847,38,Guinea
+848,29,Saint Kitts and Nevis
+849,31,Christmas Island
+850,35,Benin
+851,25,Jamaica
+852,46,Gambia
+853,42,Ukraine
+854,36,Saint Pierre and Miquelon
+855,32,Cape Verde
+856,32,Sri Lanka
+857,33,Austria
+858,43,France
+859,39,Bahamas
+860,44,Philippines
+861,42,Papua New Guinea
+862,39,Syria
+863,31,Finland
+864,33,Cameroon
+865,31,Guadeloupe
+866,39,Sierra Leone
+867,40,Iran
+868,44,Brazil
+869,42,Vietnam
+870,31,Nepal
+871,41,China
+872,40,Thailand
+873,28,Jamaica
+874,41,Suriname
+875,34,Pakistan
+876,33,Liberia
+877,38,Trinidad and Tobago
+878,35,Panama
+879,31,Liberia
+880,29,Marshall Islands
+881,43,Georgia
