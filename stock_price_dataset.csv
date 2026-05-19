@@ -1,0 +1,9 @@
+product,price,cost,quantity_available
+A,10,,
+B,30,10,
+C,40,12,10
+D,13,,330
+E,1,0.4,
+F,11,8,400
+G,33,22,33
+H,1,0.1,111
